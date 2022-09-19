@@ -1,8 +1,8 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Lakhan!](https://lakhan1122.github.io/links) 
+#### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Lakhan!](https://lakhan1122.github.io/links) 
 
 ### 🌱 I’m from Nagpur, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-### 🌱 I’m currently learning ...
-- Java, Aspiring Java Developer
+#### 🌱 I’m currently learning ...
+####- Java, Aspiring Java Developer
 
 ### 🌱 What do I do?
 - ✔️ Though I have completed my Graduation, I aspire to work as a programmer.
