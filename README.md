@@ -14,7 +14,7 @@ A hard working boy who enjoys good humour & coding.😉😉
 
 ### 📫 How can you reach me?
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lakhan1122)
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6799JOXTQIyjp7_s2Lf0XM7EwBop40QXvg&usqp=CAU' alt='github' height='40'>](https://github.com/Lakhan1122)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lakhan-gurnule-95135a247/)
 
 
