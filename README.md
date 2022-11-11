@@ -4,6 +4,15 @@
 ## 🌱 I’m currently learning ...
 ## **Java, Aspiring Java Developer**
 
+## About Me
+ --Observant and detail-oriented aspiring Full-Stack
+Web Developer with a specialization in Java
+Backend Development. An enthusiastic, hardworking, and self-motivated who is always
+looking forward to learning new skills. A complete
+team player who is excited to be at the
+deployment phase of his new career as a FullStack Web developer.
+
+
 ### 🌱 What do I do?
 - ✔️ Though I have completed my Graduation, I aspire to work as a programmer.
 
