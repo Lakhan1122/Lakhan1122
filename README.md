@@ -1,8 +1,8 @@
 # Hey, I'm [Lakhan!](https://lakhan1122.github.io/links) 
 
 ## 🌱 I’m from Gadchiroli, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
-## 🌱 I’m currently learning ...
-## **Java, Aspiring Java Developer**
+## 🌱 I’m currently working as a SDE Intern At Masai School ...
+
 
 ## About Me
  --Observant and detail-oriented aspiring Full-Stack
