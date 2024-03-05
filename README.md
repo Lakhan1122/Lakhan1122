@@ -5,12 +5,7 @@
 
 
 ## About Me
- --Observant and detail-oriented aspiring Full-Stack
-Web Developer with a specialization in Java
-Backend Development. An enthusiastic, hardworking, and self-motivated who is always
-looking forward to learning new skills. A complete
-team player who is excited to be at the
-deployment phase of his new career as a FullStack Web developer.
+ --Experienced in Full-Stack Web Development with a strong focus on Java Backend Development. Detail-oriented and observant, I am passionate about continuously expanding my skill set. I thrive in team environments and am eager to contribute to all stages of project deployment as a collaborative Full-Stack Web developer.
 
 
 ### 🌱 What do I do?
